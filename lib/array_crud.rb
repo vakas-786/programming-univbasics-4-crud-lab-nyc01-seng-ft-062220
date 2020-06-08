@@ -32,6 +32,8 @@ end
 
 def retrieve_last_element_from_array(array)
   array.reverse[0]
-  #array[-1]
-  #array.last
+  array[-1]
+  array.last
 end
+
+def update_element_from_index
